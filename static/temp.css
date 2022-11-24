@@ -1,0 +1,10 @@
+.temperaturah1 {
+    margin-top: 1em;
+}
+
+.datos {
+    margin-top: 1em;
+    border: 1px solid black;
+    width: 70%;
+    height: 300px;
+}
