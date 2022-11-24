@@ -1,3 +1,16 @@
+html {
+    background-color: #00858B;
+}
+
+body {
+    background-color: #00858B;
+}
+
+.col {
+    color: white;
+    background-color: #00858B;
+}
+
 .temperaturah1 {
     margin-top: 1em;
 }
